@@ -33,7 +33,7 @@ double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
 
     //Sort the vector in increasing order
     for(int i=0;i<sum;i++){
-        for(int j=0;j<sum;j++){
+        for(int j=0;j<sum-i-1;j++){
             if(merged_array[j]>merged_array[j+1]){
                 int temp=merged_array[j];
                 merged_array[j]=merged_array[j+1];
