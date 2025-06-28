@@ -1,0 +1,102 @@
+=====================================================
+            🚗   YNY Car Rental - Receipt
+=====================================================
+
+👤 Customer Information:
+---------------------------------------------
+Full Name     : yesehak kebere
+Age           : 21
+ID Number     : 32311123
+Phone         : 963103241
+Gender        : M
+Email         : abc@gmamil.com
+Address       : 123 str, road side
+
+🚘 Car Information:
+---------------------------------------------
+Car Name/Model: Mazda 6
+Plate Number  : UV-1028
+Seats         : 4
+Rent per Day  : $31
+Rented Days   : 3
+Total Payment : $93
+
+=====================================================
+
+=====================================================
+            🚗   YNY Car Rental - Receipt
+=====================================================
+
+👤 Customer Information:
+---------------------------------------------
+Full Name     : nati
+Age           : 21
+ID Number     : 123
+Phone         : 910101010
+Gender        : M
+Email         : ddd@gmail.com
+Address       : 123
+
+🚘 Car Information:
+---------------------------------------------
+Car Name/Model: Toyota Corolla
+Plate Number  : AB-1234
+Seats         : 7
+Rent per Day  : $25
+Rented Days   : 3
+Total Payment : $75
+
+=====================================================
+
+
+
+=====================================================
+            🚗   YNY Car Rental - Receipt
+=====================================================
+
+👤 Customer Information:
+---------------------------------------------
+Full Name     : yese
+Age           : 0
+ID Number     : 
+Phone         : 
+Gender        : 
+Email         : 
+Address       : 
+
+🚘 Car Information:
+---------------------------------------------
+Car Name/Model: Nissan Versa
+Plate Number  : UV-1012
+Seats         : 4
+Rent per Day  : $25
+Rented Days   : 3
+Total Payment : $75
+
+=====================================================
+
+=====================================================
+            🚗   YNY Car Rental - Receipt
+=====================================================
+
+👤 Customer Information:
+---------------------------------------------
+Full Name     : ddd
+Age           : 23
+ID Number     : ee
+Phone         : 44
+Gender        : b
+Email         : er
+Address       : dd
+
+🚘 Car Information:
+---------------------------------------------
+Car Name/Model: Volkswagen Golf
+Plate Number  : UV-1024
+Seats         : 4
+Rent per Day  : $29
+Rented Days   : 3
+Total Payment : $87
+
+=====================================================
+
